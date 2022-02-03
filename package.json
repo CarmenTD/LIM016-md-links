@@ -1,4 +1,10 @@
 {
+  "type": "module",
   "name": "md-links",
-  "version": "0.1.0"
+  "version": "0.1.0",
+  "dependencies": {
+    "jsdom": "^19.0.0",
+    "node-fetch": "^3.2.0",
+    "remarkable": "^2.0.1"
+  }
 }
